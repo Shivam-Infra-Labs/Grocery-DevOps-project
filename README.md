@@ -1,5 +1,10 @@
 ## Grocery Store Deployment using LAMP Stack (DevOps Project)
 
+![Made with PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Apache](https://img.shields.io/badge/Apache-WebServer-red)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+
 ## Architecture
 
 ![architecture-diagram](architecture/architecture-diagram.png)
