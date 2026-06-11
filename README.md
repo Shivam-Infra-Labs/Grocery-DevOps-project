@@ -10,35 +10,34 @@ This project demonstrates deployment of a Grocery Store Web Application using LA
 ---
 
 ## 📂 Project Structure
-
 grocery-devops-project/
 │
 ├── application/
-│   ├── index.php
-│   ├── mail.php
-│   ├── dbcon.php
-│   ├── header.php
-│   ├── footer.php
+│ ├── index.php
+│ ├── mail.php
+│ ├── dbcon.php
+│ ├── header.php
+│ └── footer.php
 │
 ├── database/
-│   └── grocery.sql
+│ └── grocery.sql
 │
 ├── architecture/
-│   └── architecture-diagram.png
+│ └── architecture-diagram.png
 │
 ├── docs/
-│   ├── setup-guide.md
-│   ├── deployment-guide.md
-│   ├── verification.md
-│   └── troubleshooting.md
+│ ├── setup-guide.md
+│ ├── deployment-guide.md
+│ ├── verification.md
+│ └── troubleshooting.md
 │
 ├── screenshots/
-│   ├── app-homepage.png
-│   ├── feedback-form.png
-│   ├── feedback-success.png
-│   ├── cart-page.png
-│   ├── apache-running.png
-│   └── mysql-running.png
+│ ├── app-homepage.png
+│ ├── feedback-form.png
+│ ├── feedback-success.png
+│ ├── cart-page.png
+│ ├── apache-running.png
+│ └── mysql-running.png
 │
 └── README.md
 
