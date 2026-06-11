@@ -2,9 +2,7 @@
 
 ## Architecture
 
-![architecture-diagram](architecture-diagram.png)
-
----
+![architecture-diagram](architecture/architecture-diagram.png)
 
 ## 📌 Project Overview
 This project demonstrates deployment of a Grocery Store Web Application using LAMP Stack on a Linux environment.
