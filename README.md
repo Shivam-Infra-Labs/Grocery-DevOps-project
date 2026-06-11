@@ -1,4 +1,4 @@
-# Grocery DevOps Project (LAMP Stack)
+## Grocery Store Deployment using LAMP Stack (DevOps Project)
 
 ## Architecture
 
